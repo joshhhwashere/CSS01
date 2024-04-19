@@ -1,0 +1,19 @@
+#social-media {
+    color: blue;
+}
+
+.experience {
+    font-style: italic;
+}
+
+a:visited {
+    color: green;
+}
+
+a:link {
+    color: green;
+}
+
+a:hover {
+    background-color: yellow;
+}
